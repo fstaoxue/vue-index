@@ -10,7 +10,6 @@
           </el-carousel-item>
         </el-carousel>
         <div style="padding: 14px;">
-          <span>filesystem</span>
           <div class="bottom clearfix">
             <a href="https://github.com/fstaoxue/vue-index" target="_blank">https://github.com/fstaoxue/vue-index</a>
             <br>

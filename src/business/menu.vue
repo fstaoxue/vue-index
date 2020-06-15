@@ -2,7 +2,7 @@
   <el-aside>
     <el-row class="tac">
       <el-col :span="24">
-        <h5>自定义颜色</h5>
+        <h5>demo</h5>
         <el-menu
           default-active="filesystem"
           class="el-menu-vertical-demo"
