@@ -30,7 +30,7 @@
 
 <style scoped>
   .el-header {
-    background-color: #409EFF;
+    background-color: #909399;
     color: white;
   }
   .el-footer {

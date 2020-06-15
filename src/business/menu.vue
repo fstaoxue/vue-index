@@ -21,26 +21,26 @@
             <el-menu-item index="filesystem">filesystem</el-menu-item>
             <el-menu-item index="map">map</el-menu-item>
             <el-menu-item index="es">es</el-menu-item>
-            <el-menu-item index="zxskbg">zxskbg</el-menu-item>
+            <!--<el-menu-item index="zxskbg">zxskbg</el-menu-item>-->
           </el-submenu>
-          <el-submenu index="2">
-            <template slot="title">
-              <i class="el-icon-menu"></i>
-              <span>其他</span>
-            </template>
-            <el-menu-item index="1-1">spring</el-menu-item>
-            <el-menu-item index="1-2">address</el-menu-item>
-            <el-menu-item index="1-3">demo</el-menu-item>
-          </el-submenu>
-          <el-submenu index="3">
-            <template slot="title">
-              <i class="el-icon-menu"></i>
-              <span>vue element 使用</span>
-            </template>
-            <el-menu-item index="1-1">axios</el-menu-item>
-            <el-menu-item index="1-2">store</el-menu-item>
-            <el-menu-item index="1-3">table</el-menu-item>
-          </el-submenu>
+          <!--<el-submenu index="2">-->
+            <!--<template slot="title">-->
+              <!--<i class="el-icon-menu"></i>-->
+              <!--<span>其他</span>-->
+            <!--</template>-->
+            <!--<el-menu-item index="1-1">spring</el-menu-item>-->
+            <!--<el-menu-item index="1-2">address</el-menu-item>-->
+            <!--<el-menu-item index="1-3">demo</el-menu-item>-->
+          <!--</el-submenu>-->
+          <!--<el-submenu index="3">-->
+            <!--<template slot="title">-->
+              <!--<i class="el-icon-menu"></i>-->
+              <!--<span>vue element 使用</span>-->
+            <!--</template>-->
+            <!--<el-menu-item index="1-1">axios</el-menu-item>-->
+            <!--<el-menu-item index="1-2">store</el-menu-item>-->
+            <!--<el-menu-item index="1-3">table</el-menu-item>-->
+          <!--</el-submenu>-->
 
         </el-menu>
       </el-col>
