@@ -11,8 +11,10 @@
         </el-carousel>
         <div style="padding: 14px;">
           <div class="bottom clearfix">
+            <span>github地址</span>
             <a href="https://github.com/fstaoxue/vue-index" target="_blank">https://github.com/fstaoxue/vue-index</a>
             <br>
+            <span>项目链接</span>
             <a href="http://114.55.64.105:8085/es/index" target="_blank">
               http://114.55.64.105:8085/es/index</a>
           </div>

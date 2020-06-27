@@ -11,8 +11,10 @@
         </el-carousel>
         <div style="padding: 14px;">
           <div class="bottom clearfix">
+            <span>github地址</span>
             <a href="https://github.com/fstaoxue/filesystem" target="_blank">https://github.com/fstaoxue/filesystem</a>
             <br>
+            <span>项目链接</span>
             <a href= "http://114.55.64.105:8082/filesystem/index" target="_blank"> http://114.55.64.105:8082/filesystem/index</a>
           </div>
         </div>
