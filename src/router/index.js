@@ -5,6 +5,7 @@ import filesystem from '@/business/location/filesystem'
 import es from '@/business/location/es'
 import map from '@/business/location/map'
 import zxskbg from '@/business/location/zxskbg'
+import current from '@/business/location/current'
 
 Vue.use(Router)
 
@@ -34,6 +35,11 @@ export default new Router({
           path: '/zxskbg',
           name: 'zxskbg',
           component: zxskbg,
+        },
+        {
+          path: '/current',
+          name: 'current',
+          component: current,
         }
       ]
     },

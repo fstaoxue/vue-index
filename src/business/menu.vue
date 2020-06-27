@@ -21,7 +21,8 @@
             <el-menu-item index="filesystem">filesystem</el-menu-item>
             <el-menu-item index="map">map</el-menu-item>
             <el-menu-item index="es">es</el-menu-item>
-            <!--<el-menu-item index="zxskbg">zxskbg</el-menu-item>-->
+            <el-menu-item index="zxskbg">zxskbg</el-menu-item>
+            <el-menu-item index="current">本项目</el-menu-item>
           </el-submenu>
           <!--<el-submenu index="2">-->
             <!--<template slot="title">-->
